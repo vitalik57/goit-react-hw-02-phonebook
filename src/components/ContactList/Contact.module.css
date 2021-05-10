@@ -1,0 +1,9 @@
+.button {
+  background-color: rgb(76, 223, 71);
+  border: 1px solid rgb(59, 13, 90);
+  outline: none;
+}
+
+.list {
+  list-style: none;
+}
